@@ -31,7 +31,7 @@ int main(){
     memset(dp, -1, sizeof(dp));
 
     int n, W;
-    cout << "Enter no. of Bags and Kanpsack capacity -> ";
+    cout << "Enter no. of Bags and Knapsack capacity -> ";
     cin >> n >> W;
 
     cout << "\n\n";
